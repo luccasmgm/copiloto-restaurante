@@ -1,0 +1,1052 @@
+data,hora,item,quantidade,preco_unitario,custo_unitario,canal,tempo_entrega_min,cancelado
+2026-10-18,11,Refrigerante,1,8,3,iFood,41,nao
+2026-10-18,18,X-Burger,2,28,11,iFood,28,nao
+2026-10-18,12,X-Burger,2,28,11,Balcão,0,nao
+2026-10-18,11,X-Bacon,1,34,14,Balcão,0,nao
+2026-10-18,21,Combo Família,2,79,32,WhatsApp,45,nao
+2026-10-18,21,Açaí 500ml,1,19,7,WhatsApp,34,nao
+2026-10-18,11,X-Bacon,1,34,14,iFood,41,nao
+2026-10-18,11,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-10-18,19,Açaí 500ml,2,19,7,Balcão,0,nao
+2026-10-18,18,X-Bacon,3,34,14,iFood,29,nao
+2026-10-18,20,Salada Caesar,1,26,10,iFood,39,nao
+2026-10-18,20,Batata Frita,3,16,5,Balcão,0,nao
+2026-10-18,18,Açaí 500ml,1,19,7,iFood,36,nao
+2026-10-18,13,Salada Caesar,2,26,10,iFood,43,sim
+2026-10-18,19,X-Burger,3,28,11,WhatsApp,38,nao
+2026-10-18,20,Salada Caesar,2,26,10,iFood,43,nao
+2026-10-18,21,Refrigerante,1,8,3,iFood,39,sim
+2026-10-18,13,Pizza Média,1,48,18,Balcão,0,nao
+2026-10-18,15,X-Burger,1,28,11,iFood,35,nao
+2026-10-18,19,Batata Frita,2,16,5,Balcão,0,nao
+2026-10-18,19,Açaí 500ml,2,19,7,Balcão,0,nao
+2026-10-18,11,Combo Família,1,79,32,iFood,36,nao
+2026-10-18,21,X-Burger,2,28,11,Balcão,0,nao
+2026-10-18,11,Combo Família,2,79,32,Balcão,0,nao
+2026-10-18,18,Batata Frita,2,16,5,iFood,32,nao
+2026-10-18,19,Pizza Média,1,48,18,iFood,36,nao
+2026-10-18,18,Batata Frita,2,16,5,Balcão,0,nao
+2026-10-18,13,Salada Caesar,2,26,10,Balcão,0,nao
+2026-10-18,12,Batata Frita,3,16,5,iFood,34,nao
+2026-10-18,13,Batata Frita,2,16,5,iFood,44,nao
+2026-10-18,19,Combo Família,2,79,32,Balcão,0,nao
+2026-10-18,12,Pizza Média,1,48,18,iFood,35,nao
+2026-10-18,12,X-Bacon,1,34,14,WhatsApp,34,nao
+2026-10-18,19,Combo Família,2,79,32,WhatsApp,44,nao
+2026-10-18,12,X-Bacon,1,34,14,WhatsApp,37,nao
+2026-10-18,17,X-Burger,2,28,11,iFood,29,nao
+2026-10-18,18,Açaí 500ml,3,19,7,Balcão,0,nao
+2026-10-18,21,Açaí 500ml,1,19,7,iFood,44,nao
+2026-10-18,12,Combo Família,2,79,32,iFood,42,nao
+2026-10-18,12,Pizza Média,1,48,18,Balcão,0,nao
+2026-10-18,11,Açaí 500ml,2,19,7,WhatsApp,36,nao
+2026-10-18,18,Pizza Média,2,48,18,Balcão,0,nao
+2026-10-18,18,Pizza Média,2,48,18,iFood,36,nao
+2026-10-18,11,Refrigerante,2,8,3,iFood,44,nao
+2026-10-18,13,Salada Caesar,2,26,10,Balcão,0,nao
+2026-10-18,13,Salada Caesar,2,26,10,iFood,43,nao
+2026-10-19,21,X-Burger,2,28,11,Balcão,0,nao
+2026-10-19,13,X-Burger,2,28,11,iFood,35,nao
+2026-10-19,20,Salada Caesar,1,26,10,iFood,39,nao
+2026-10-19,21,X-Burger,1,28,11,iFood,38,nao
+2026-10-19,19,X-Bacon,3,34,14,WhatsApp,42,sim
+2026-10-19,20,X-Bacon,1,34,14,WhatsApp,34,nao
+2026-10-19,13,X-Bacon,1,34,14,WhatsApp,37,nao
+2026-10-19,11,Salada Caesar,2,26,10,iFood,41,nao
+2026-10-19,12,X-Bacon,2,34,14,iFood,38,nao
+2026-10-19,18,Pizza Média,1,48,18,iFood,36,nao
+2026-10-19,19,Refrigerante,1,8,3,Balcão,0,nao
+2026-10-19,11,Batata Frita,1,16,5,iFood,43,nao
+2026-10-19,20,X-Bacon,2,34,14,iFood,41,sim
+2026-10-19,19,Salada Caesar,1,26,10,iFood,39,nao
+2026-10-19,21,Salada Caesar,2,26,10,WhatsApp,40,nao
+2026-10-19,20,Combo Família,2,79,32,Balcão,0,nao
+2026-10-19,18,Refrigerante,1,8,3,WhatsApp,32,nao
+2026-10-19,11,X-Bacon,1,34,14,iFood,39,nao
+2026-10-19,18,Combo Família,1,79,32,iFood,31,nao
+2026-10-19,20,Refrigerante,1,8,3,Balcão,0,nao
+2026-10-19,13,Salada Caesar,2,26,10,Balcão,0,nao
+2026-10-19,18,Batata Frita,2,16,5,iFood,26,nao
+2026-10-19,11,X-Burger,1,28,11,iFood,40,sim
+2026-10-19,20,Batata Frita,1,16,5,iFood,34,nao
+2026-10-19,13,Refrigerante,1,8,3,iFood,43,nao
+2026-10-19,12,X-Bacon,2,34,14,Balcão,0,nao
+2026-10-19,21,X-Burger,2,28,11,iFood,35,nao
+2026-10-19,20,X-Burger,1,28,11,WhatsApp,40,nao
+2026-10-20,18,Açaí 500ml,2,19,7,iFood,37,nao
+2026-10-20,13,X-Burger,2,28,11,WhatsApp,42,nao
+2026-10-20,13,X-Bacon,2,34,14,WhatsApp,38,nao
+2026-10-20,13,X-Burger,2,28,11,Balcão,0,nao
+2026-10-20,19,Salada Caesar,2,26,10,WhatsApp,36,nao
+2026-10-20,20,Pizza Média,2,48,18,iFood,43,nao
+2026-10-20,12,Batata Frita,1,16,5,WhatsApp,33,nao
+2026-10-20,13,Pizza Média,1,48,18,iFood,41,nao
+2026-10-20,20,Refrigerante,2,8,3,iFood,41,nao
+2026-10-20,18,X-Bacon,2,34,14,WhatsApp,33,nao
+2026-10-20,19,X-Bacon,1,34,14,WhatsApp,36,nao
+2026-10-20,12,X-Burger,2,28,11,WhatsApp,36,nao
+2026-10-20,19,X-Burger,1,28,11,iFood,36,nao
+2026-10-20,21,Açaí 500ml,2,19,7,WhatsApp,35,nao
+2026-10-20,19,X-Burger,2,28,11,iFood,34,nao
+2026-10-20,18,X-Burger,1,28,11,WhatsApp,28,nao
+2026-10-20,21,Refrigerante,1,8,3,WhatsApp,36,nao
+2026-10-20,17,Açaí 500ml,3,19,7,iFood,33,nao
+2026-10-20,11,X-Burger,1,28,11,WhatsApp,35,nao
+2026-10-20,19,Açaí 500ml,2,19,7,iFood,41,nao
+2026-10-20,20,Salada Caesar,2,26,10,WhatsApp,38,nao
+2026-10-20,15,X-Bacon,1,34,14,iFood,35,nao
+2026-10-20,13,Salada Caesar,1,26,10,WhatsApp,39,nao
+2026-10-20,12,X-Bacon,2,34,14,iFood,34,nao
+2026-10-20,17,X-Bacon,2,34,14,WhatsApp,26,nao
+2026-10-20,15,Açaí 500ml,1,19,7,WhatsApp,32,nao
+2026-10-20,13,X-Bacon,1,34,14,Balcão,0,nao
+2026-10-20,16,X-Bacon,1,34,14,iFood,30,nao
+2026-10-20,16,Batata Frita,2,16,5,iFood,28,nao
+2026-10-20,18,Salada Caesar,1,26,10,iFood,31,nao
+2026-10-20,18,Combo Família,3,79,32,iFood,33,nao
+2026-10-20,18,Combo Família,2,79,32,Balcão,0,nao
+2026-10-20,13,X-Bacon,1,34,14,Balcão,0,nao
+2026-10-20,21,X-Bacon,1,34,14,Balcão,0,nao
+2026-10-21,15,Combo Família,1,79,32,iFood,38,nao
+2026-10-21,20,Batata Frita,2,16,5,iFood,37,nao
+2026-10-21,21,Refrigerante,1,8,3,iFood,41,nao
+2026-10-21,17,X-Burger,2,28,11,iFood,32,nao
+2026-10-21,20,Refrigerante,1,8,3,iFood,38,nao
+2026-10-21,16,Açaí 500ml,2,19,7,WhatsApp,36,nao
+2026-10-21,11,Refrigerante,1,8,3,WhatsApp,43,nao
+2026-10-21,17,Batata Frita,2,16,5,WhatsApp,27,nao
+2026-10-21,21,Refrigerante,1,8,3,iFood,37,nao
+2026-10-21,21,X-Burger,1,28,11,iFood,43,nao
+2026-10-21,19,X-Bacon,2,34,14,iFood,33,nao
+2026-10-21,19,Combo Família,1,79,32,iFood,41,nao
+2026-10-21,19,X-Bacon,3,34,14,iFood,40,nao
+2026-10-21,13,X-Bacon,2,34,14,WhatsApp,40,nao
+2026-10-21,12,Pizza Média,2,48,18,iFood,36,nao
+2026-10-21,12,Açaí 500ml,2,19,7,WhatsApp,42,nao
+2026-10-21,16,Batata Frita,1,16,5,iFood,33,nao
+2026-10-21,13,X-Burger,2,28,11,iFood,39,nao
+2026-10-21,15,Batata Frita,2,16,5,Balcão,0,nao
+2026-10-21,11,X-Burger,2,28,11,Balcão,0,nao
+2026-10-21,17,X-Bacon,1,34,14,Balcão,0,nao
+2026-10-21,20,Combo Família,1,79,32,WhatsApp,43,nao
+2026-10-21,11,Combo Família,1,79,32,Balcão,0,nao
+2026-10-21,13,X-Bacon,1,34,14,Balcão,0,nao
+2026-10-21,19,Pizza Média,2,48,18,iFood,35,nao
+2026-10-21,16,X-Burger,2,28,11,WhatsApp,31,nao
+2026-10-21,13,X-Bacon,2,34,14,iFood,38,nao
+2026-10-21,13,Salada Caesar,1,26,10,iFood,37,nao
+2026-10-21,13,Açaí 500ml,1,19,7,iFood,41,nao
+2026-10-21,18,X-Burger,1,28,11,WhatsApp,35,nao
+2026-10-21,18,X-Burger,1,28,11,Balcão,0,nao
+2026-10-21,11,Açaí 500ml,2,19,7,iFood,33,sim
+2026-10-21,11,X-Burger,2,28,11,iFood,42,nao
+2026-10-21,20,Combo Família,2,79,32,iFood,44,nao
+2026-10-21,19,X-Burger,1,28,11,Balcão,0,nao
+2026-10-22,15,Combo Família,2,79,32,iFood,27,nao
+2026-10-22,21,Batata Frita,2,16,5,iFood,40,nao
+2026-10-22,21,X-Burger,1,28,11,WhatsApp,38,nao
+2026-10-22,18,Açaí 500ml,3,19,7,iFood,30,nao
+2026-10-22,13,X-Burger,2,28,11,iFood,42,nao
+2026-10-22,19,X-Bacon,2,34,14,iFood,41,nao
+2026-10-22,16,Combo Família,1,79,32,iFood,29,nao
+2026-10-22,13,Refrigerante,2,8,3,iFood,40,nao
+2026-10-22,16,X-Burger,1,28,11,WhatsApp,37,nao
+2026-10-22,13,X-Bacon,2,34,14,iFood,33,nao
+2026-10-22,11,X-Burger,1,28,11,WhatsApp,42,nao
+2026-10-22,12,Refrigerante,1,8,3,WhatsApp,40,nao
+2026-10-22,12,X-Bacon,1,34,14,WhatsApp,41,nao
+2026-10-22,13,Batata Frita,2,16,5,iFood,36,nao
+2026-10-22,19,X-Burger,1,28,11,WhatsApp,37,nao
+2026-10-22,11,Refrigerante,2,8,3,iFood,35,nao
+2026-10-22,17,Pizza Média,3,48,18,iFood,27,sim
+2026-10-22,20,Batata Frita,1,16,5,WhatsApp,34,sim
+2026-10-22,21,X-Burger,1,28,11,Balcão,0,nao
+2026-10-22,19,X-Bacon,2,34,14,iFood,37,nao
+2026-10-22,12,X-Bacon,2,34,14,Balcão,0,nao
+2026-10-22,18,Combo Família,1,79,32,iFood,35,nao
+2026-10-22,21,Batata Frita,2,16,5,WhatsApp,44,nao
+2026-10-22,16,X-Burger,1,28,11,iFood,31,nao
+2026-10-22,12,Batata Frita,1,16,5,iFood,34,nao
+2026-10-22,16,Batata Frita,2,16,5,iFood,33,nao
+2026-10-22,16,Batata Frita,1,16,5,iFood,28,nao
+2026-10-22,20,X-Burger,1,28,11,iFood,36,nao
+2026-10-22,19,Batata Frita,2,16,5,iFood,37,nao
+2026-10-22,18,X-Bacon,2,34,14,WhatsApp,35,nao
+2026-10-22,20,X-Bacon,1,34,14,iFood,45,nao
+2026-10-22,15,Refrigerante,2,8,3,iFood,36,nao
+2026-10-23,20,X-Bacon,1,34,14,iFood,37,nao
+2026-10-23,18,X-Burger,2,28,11,iFood,36,nao
+2026-10-23,15,Refrigerante,1,8,3,iFood,28,nao
+2026-10-23,21,Batata Frita,1,16,5,iFood,38,nao
+2026-10-23,20,Combo Família,2,79,32,iFood,37,nao
+2026-10-23,21,Batata Frita,1,16,5,Balcão,0,nao
+2026-10-23,17,X-Burger,2,28,11,Balcão,0,nao
+2026-10-23,18,Pizza Média,2,48,18,Balcão,0,nao
+2026-10-23,13,Batata Frita,1,16,5,iFood,44,nao
+2026-10-23,11,Combo Família,1,79,32,iFood,36,nao
+2026-10-23,13,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-10-23,13,X-Burger,1,28,11,WhatsApp,41,nao
+2026-10-23,11,Combo Família,2,79,32,Balcão,0,nao
+2026-10-23,11,X-Burger,2,28,11,iFood,38,nao
+2026-10-23,13,X-Burger,1,28,11,WhatsApp,39,nao
+2026-10-23,18,Açaí 500ml,1,19,7,iFood,27,nao
+2026-10-23,21,Batata Frita,3,16,5,WhatsApp,39,nao
+2026-10-23,11,X-Bacon,2,34,14,WhatsApp,42,nao
+2026-10-23,18,Refrigerante,2,8,3,iFood,28,nao
+2026-10-23,21,Refrigerante,1,8,3,iFood,38,nao
+2026-10-23,11,Combo Família,2,79,32,Balcão,0,nao
+2026-10-23,13,X-Bacon,1,34,14,iFood,42,nao
+2026-10-23,12,Refrigerante,1,8,3,Balcão,0,nao
+2026-10-23,19,Combo Família,2,79,32,Balcão,0,nao
+2026-10-23,12,Combo Família,1,79,32,Balcão,0,nao
+2026-10-23,20,Açaí 500ml,2,19,7,iFood,37,nao
+2026-10-23,13,Salada Caesar,2,26,10,iFood,44,nao
+2026-10-23,13,Salada Caesar,2,26,10,WhatsApp,35,nao
+2026-10-23,11,X-Bacon,2,34,14,WhatsApp,38,nao
+2026-10-23,16,Combo Família,2,79,32,WhatsApp,32,nao
+2026-10-23,11,Combo Família,1,79,32,WhatsApp,38,nao
+2026-10-23,12,X-Bacon,2,34,14,Balcão,0,nao
+2026-10-23,13,Pizza Média,2,48,18,iFood,38,nao
+2026-10-24,12,Combo Família,2,79,32,iFood,44,nao
+2026-10-24,21,X-Burger,2,28,11,iFood,35,nao
+2026-10-24,12,Refrigerante,1,8,3,iFood,40,nao
+2026-10-24,13,Combo Família,1,79,32,WhatsApp,42,nao
+2026-10-24,19,X-Bacon,2,34,14,WhatsApp,44,nao
+2026-10-24,13,Salada Caesar,1,26,10,iFood,34,nao
+2026-10-24,11,X-Bacon,2,34,14,WhatsApp,44,nao
+2026-10-24,12,X-Burger,2,28,11,WhatsApp,37,nao
+2026-10-24,13,Açaí 500ml,2,19,7,iFood,42,nao
+2026-10-24,15,Açaí 500ml,2,19,7,iFood,33,nao
+2026-10-24,12,Açaí 500ml,2,19,7,iFood,36,nao
+2026-10-24,19,X-Burger,1,28,11,iFood,38,nao
+2026-10-24,20,Pizza Média,1,48,18,WhatsApp,45,nao
+2026-10-24,19,X-Bacon,1,34,14,iFood,34,nao
+2026-10-24,21,X-Bacon,2,34,14,iFood,40,nao
+2026-10-24,19,X-Burger,3,28,11,iFood,44,nao
+2026-10-24,12,Batata Frita,2,16,5,iFood,44,nao
+2026-10-24,16,Refrigerante,1,8,3,Balcão,0,nao
+2026-10-24,12,Combo Família,2,79,32,iFood,34,nao
+2026-10-24,13,X-Burger,2,28,11,WhatsApp,45,nao
+2026-10-24,13,X-Burger,1,28,11,WhatsApp,39,nao
+2026-10-24,11,Batata Frita,1,16,5,iFood,40,nao
+2026-10-24,21,X-Bacon,2,34,14,WhatsApp,37,nao
+2026-10-24,21,Açaí 500ml,2,19,7,iFood,45,nao
+2026-10-24,18,Salada Caesar,2,26,10,iFood,35,nao
+2026-10-24,18,Açaí 500ml,2,19,7,WhatsApp,36,nao
+2026-10-24,13,X-Burger,2,28,11,iFood,37,nao
+2026-10-24,13,Pizza Média,1,48,18,Balcão,0,nao
+2026-10-24,11,Açaí 500ml,1,19,7,iFood,39,nao
+2026-10-24,19,Refrigerante,2,8,3,WhatsApp,41,nao
+2026-10-24,11,X-Burger,1,28,11,WhatsApp,45,nao
+2026-10-24,13,X-Bacon,1,34,14,iFood,44,nao
+2026-10-24,13,Salada Caesar,2,26,10,iFood,43,nao
+2026-10-24,11,X-Bacon,2,34,14,WhatsApp,38,nao
+2026-10-24,12,Açaí 500ml,2,19,7,Balcão,0,nao
+2026-10-24,20,Açaí 500ml,2,19,7,iFood,34,nao
+2026-10-24,13,Combo Família,3,79,32,iFood,44,nao
+2026-10-24,18,X-Bacon,2,34,14,Balcão,0,nao
+2026-10-24,12,Refrigerante,1,8,3,iFood,44,nao
+2026-10-24,21,Batata Frita,3,16,5,Balcão,0,nao
+2026-10-24,17,Combo Família,1,79,32,iFood,27,nao
+2026-10-24,19,Pizza Média,1,48,18,Balcão,0,nao
+2026-10-24,11,X-Bacon,2,34,14,iFood,35,nao
+2026-10-24,18,Pizza Média,2,48,18,Balcão,0,nao
+2026-10-24,13,X-Burger,1,28,11,iFood,37,nao
+2026-10-24,13,X-Bacon,1,34,14,Balcão,0,nao
+2026-10-24,18,X-Bacon,2,34,14,iFood,31,nao
+2026-10-24,18,X-Bacon,1,34,14,Balcão,0,nao
+2026-10-25,13,Batata Frita,2,16,5,WhatsApp,40,nao
+2026-10-25,18,Pizza Média,2,48,18,WhatsApp,27,nao
+2026-10-25,12,Combo Família,1,79,32,iFood,39,nao
+2026-10-25,12,X-Burger,2,28,11,iFood,40,nao
+2026-10-25,20,X-Burger,2,28,11,iFood,39,nao
+2026-10-25,13,Combo Família,1,79,32,WhatsApp,34,nao
+2026-10-25,15,X-Burger,2,28,11,Balcão,0,nao
+2026-10-25,16,Salada Caesar,2,26,10,iFood,31,nao
+2026-10-25,13,Combo Família,1,79,32,WhatsApp,41,nao
+2026-10-25,20,X-Burger,2,28,11,iFood,33,nao
+2026-10-25,21,X-Bacon,2,34,14,iFood,36,nao
+2026-10-25,13,Refrigerante,1,8,3,iFood,44,sim
+2026-10-25,11,Açaí 500ml,1,19,7,WhatsApp,34,nao
+2026-10-25,11,X-Burger,1,28,11,Balcão,0,nao
+2026-10-25,19,Açaí 500ml,1,19,7,WhatsApp,37,nao
+2026-10-25,19,Salada Caesar,2,26,10,iFood,44,nao
+2026-10-25,21,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-10-25,11,Refrigerante,1,8,3,iFood,39,nao
+2026-10-25,17,Salada Caesar,1,26,10,WhatsApp,33,nao
+2026-10-25,12,Pizza Média,2,48,18,Balcão,0,nao
+2026-10-25,11,Combo Família,2,79,32,WhatsApp,43,nao
+2026-10-25,19,X-Bacon,1,34,14,Balcão,0,nao
+2026-10-25,15,Batata Frita,2,16,5,Balcão,0,nao
+2026-10-25,13,Refrigerante,1,8,3,WhatsApp,38,nao
+2026-10-25,12,X-Burger,2,28,11,iFood,45,nao
+2026-10-25,19,X-Burger,3,28,11,WhatsApp,35,nao
+2026-10-25,18,Batata Frita,2,16,5,iFood,36,nao
+2026-10-25,21,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-10-25,20,Salada Caesar,1,26,10,iFood,40,nao
+2026-10-25,13,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-10-25,20,Combo Família,2,79,32,iFood,37,nao
+2026-10-25,19,Combo Família,1,79,32,iFood,33,nao
+2026-10-25,21,Refrigerante,1,8,3,WhatsApp,44,nao
+2026-10-25,11,Pizza Média,1,48,18,iFood,36,nao
+2026-10-25,12,X-Burger,2,28,11,Balcão,0,nao
+2026-10-25,17,Batata Frita,1,16,5,iFood,33,nao
+2026-10-25,12,Refrigerante,1,8,3,iFood,40,nao
+2026-10-25,18,Pizza Média,1,48,18,Balcão,0,nao
+2026-10-25,13,Combo Família,3,79,32,Balcão,0,nao
+2026-10-25,13,Refrigerante,1,8,3,WhatsApp,42,nao
+2026-10-25,11,Batata Frita,1,16,5,Balcão,0,nao
+2026-10-26,13,Combo Família,1,79,32,WhatsApp,45,nao
+2026-10-26,21,Batata Frita,1,16,5,Balcão,0,nao
+2026-10-26,13,X-Bacon,2,34,14,iFood,44,nao
+2026-10-26,20,Açaí 500ml,2,19,7,WhatsApp,34,nao
+2026-10-26,19,X-Burger,1,28,11,iFood,37,nao
+2026-10-26,11,Combo Família,1,79,32,iFood,38,sim
+2026-10-26,12,Batata Frita,1,16,5,iFood,37,nao
+2026-10-26,17,X-Burger,1,28,11,WhatsApp,31,nao
+2026-10-26,19,Batata Frita,1,16,5,iFood,34,nao
+2026-10-26,18,X-Bacon,2,34,14,iFood,37,nao
+2026-10-26,19,Pizza Média,1,48,18,Balcão,0,nao
+2026-10-26,13,X-Bacon,1,34,14,iFood,45,nao
+2026-10-26,20,Batata Frita,1,16,5,iFood,43,nao
+2026-10-26,20,Combo Família,2,79,32,WhatsApp,44,nao
+2026-10-26,20,Refrigerante,2,8,3,Balcão,0,nao
+2026-10-26,20,Refrigerante,2,8,3,WhatsApp,34,nao
+2026-10-26,12,Açaí 500ml,2,19,7,Balcão,0,nao
+2026-10-26,13,Açaí 500ml,2,19,7,iFood,34,nao
+2026-10-26,12,Salada Caesar,2,26,10,iFood,41,nao
+2026-10-26,18,Combo Família,2,79,32,iFood,32,nao
+2026-10-26,21,Combo Família,1,79,32,WhatsApp,37,sim
+2026-10-26,13,Salada Caesar,2,26,10,iFood,35,nao
+2026-10-26,12,Batata Frita,1,16,5,iFood,41,nao
+2026-10-26,21,Açaí 500ml,1,19,7,WhatsApp,35,nao
+2026-10-26,11,Salada Caesar,1,26,10,WhatsApp,36,nao
+2026-10-26,18,X-Burger,2,28,11,WhatsApp,33,nao
+2026-10-26,13,X-Burger,2,28,11,Balcão,0,nao
+2026-10-26,11,X-Bacon,2,34,14,iFood,43,nao
+2026-10-26,20,Pizza Média,2,48,18,iFood,40,nao
+2026-10-26,12,X-Burger,1,28,11,iFood,34,nao
+2026-10-26,19,Batata Frita,2,16,5,iFood,35,nao
+2026-10-26,16,X-Burger,1,28,11,iFood,30,nao
+2026-10-26,11,Pizza Média,2,48,18,iFood,45,nao
+2026-10-27,13,X-Burger,1,28,11,iFood,33,nao
+2026-10-27,12,Batata Frita,2,16,5,iFood,42,nao
+2026-10-27,11,Pizza Média,1,48,18,WhatsApp,37,nao
+2026-10-27,21,Pizza Média,3,48,18,iFood,42,nao
+2026-10-27,21,Salada Caesar,2,26,10,iFood,42,nao
+2026-10-27,20,X-Burger,1,28,11,WhatsApp,35,nao
+2026-10-27,12,Combo Família,1,79,32,iFood,37,nao
+2026-10-27,13,Açaí 500ml,3,19,7,Balcão,0,nao
+2026-10-27,17,X-Burger,1,28,11,Balcão,0,nao
+2026-10-27,17,Batata Frita,1,16,5,WhatsApp,33,nao
+2026-10-27,21,Combo Família,1,79,32,iFood,36,nao
+2026-10-27,18,Refrigerante,2,8,3,WhatsApp,35,nao
+2026-10-27,11,X-Burger,1,28,11,iFood,38,nao
+2026-10-27,20,Batata Frita,1,16,5,WhatsApp,37,nao
+2026-10-27,13,X-Burger,1,28,11,iFood,43,nao
+2026-10-27,20,Açaí 500ml,1,19,7,iFood,35,nao
+2026-10-27,19,X-Burger,1,28,11,Balcão,0,nao
+2026-10-27,20,X-Burger,1,28,11,WhatsApp,39,nao
+2026-10-27,20,Salada Caesar,1,26,10,Balcão,0,nao
+2026-10-27,12,X-Burger,1,28,11,WhatsApp,37,nao
+2026-10-27,18,X-Burger,1,28,11,Balcão,0,nao
+2026-10-27,20,X-Burger,2,28,11,WhatsApp,38,nao
+2026-10-27,11,Combo Família,1,79,32,WhatsApp,38,nao
+2026-10-27,11,Combo Família,2,79,32,iFood,40,nao
+2026-10-27,16,Combo Família,1,79,32,iFood,32,nao
+2026-10-27,13,Batata Frita,2,16,5,Balcão,0,nao
+2026-10-27,21,Salada Caesar,2,26,10,Balcão,0,nao
+2026-10-27,20,Salada Caesar,1,26,10,WhatsApp,42,sim
+2026-10-27,11,Refrigerante,2,8,3,iFood,39,nao
+2026-10-27,13,Combo Família,1,79,32,iFood,40,nao
+2026-10-27,21,Batata Frita,2,16,5,iFood,41,nao
+2026-10-27,13,Pizza Média,1,48,18,WhatsApp,34,nao
+2026-10-28,20,X-Burger,1,28,11,WhatsApp,41,nao
+2026-10-28,21,X-Burger,1,28,11,WhatsApp,35,nao
+2026-10-28,18,X-Bacon,2,34,14,Balcão,0,nao
+2026-10-28,19,Combo Família,1,79,32,iFood,40,nao
+2026-10-28,12,X-Bacon,2,34,14,WhatsApp,39,nao
+2026-10-28,12,X-Burger,2,28,11,iFood,44,nao
+2026-10-28,19,Batata Frita,1,16,5,iFood,42,nao
+2026-10-28,12,X-Burger,3,28,11,Balcão,0,nao
+2026-10-28,19,Pizza Média,1,48,18,iFood,37,nao
+2026-10-28,12,Açaí 500ml,2,19,7,iFood,39,nao
+2026-10-28,21,X-Bacon,1,34,14,WhatsApp,33,nao
+2026-10-28,13,Salada Caesar,2,26,10,Balcão,0,sim
+2026-10-28,18,X-Bacon,3,34,14,iFood,32,nao
+2026-10-28,21,Combo Família,1,79,32,Balcão,0,nao
+2026-10-28,18,Pizza Média,1,48,18,iFood,27,nao
+2026-10-28,19,Refrigerante,1,8,3,iFood,41,nao
+2026-10-28,11,Refrigerante,1,8,3,iFood,40,nao
+2026-10-28,20,X-Burger,1,28,11,Balcão,0,nao
+2026-10-28,11,Pizza Média,2,48,18,WhatsApp,41,nao
+2026-10-28,11,X-Bacon,1,34,14,iFood,39,nao
+2026-10-28,19,Refrigerante,2,8,3,iFood,36,nao
+2026-10-28,11,Salada Caesar,2,26,10,Balcão,0,nao
+2026-10-28,12,Combo Família,1,79,32,WhatsApp,36,nao
+2026-10-28,13,X-Burger,1,28,11,iFood,44,nao
+2026-10-28,12,Combo Família,1,79,32,iFood,43,nao
+2026-10-28,18,X-Bacon,2,34,14,iFood,37,nao
+2026-10-28,11,Combo Família,1,79,32,iFood,34,nao
+2026-10-28,13,Açaí 500ml,3,19,7,iFood,43,nao
+2026-10-28,20,Salada Caesar,1,26,10,iFood,39,nao
+2026-10-28,11,Refrigerante,3,8,3,Balcão,0,nao
+2026-10-29,17,Açaí 500ml,3,19,7,iFood,29,nao
+2026-10-29,13,Pizza Média,2,48,18,iFood,43,nao
+2026-10-29,20,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-10-29,16,X-Burger,2,28,11,WhatsApp,38,nao
+2026-10-29,12,X-Bacon,1,34,14,iFood,36,nao
+2026-10-29,18,Salada Caesar,1,26,10,WhatsApp,36,nao
+2026-10-29,17,Pizza Média,1,48,18,Balcão,0,nao
+2026-10-29,18,X-Burger,2,28,11,iFood,28,nao
+2026-10-29,18,Açaí 500ml,2,19,7,Balcão,0,nao
+2026-10-29,12,X-Bacon,2,34,14,iFood,41,nao
+2026-10-29,16,Salada Caesar,2,26,10,Balcão,0,nao
+2026-10-29,15,Salada Caesar,1,26,10,WhatsApp,28,nao
+2026-10-29,21,Açaí 500ml,1,19,7,iFood,41,nao
+2026-10-29,11,X-Bacon,1,34,14,iFood,34,sim
+2026-10-29,17,Batata Frita,2,16,5,iFood,33,nao
+2026-10-29,20,X-Burger,1,28,11,iFood,43,nao
+2026-10-29,18,Refrigerante,1,8,3,iFood,33,nao
+2026-10-29,19,Salada Caesar,1,26,10,iFood,35,nao
+2026-10-29,11,Açaí 500ml,1,19,7,iFood,42,nao
+2026-10-29,11,Combo Família,1,79,32,iFood,43,nao
+2026-10-29,20,X-Burger,1,28,11,WhatsApp,33,nao
+2026-10-29,13,Batata Frita,1,16,5,iFood,39,nao
+2026-10-29,21,Batata Frita,1,16,5,iFood,36,nao
+2026-10-29,11,Açaí 500ml,2,19,7,WhatsApp,34,nao
+2026-10-29,20,Pizza Média,2,48,18,Balcão,0,nao
+2026-10-29,21,X-Burger,2,28,11,iFood,44,nao
+2026-10-29,17,X-Burger,3,28,11,WhatsApp,35,nao
+2026-10-29,15,Salada Caesar,2,26,10,iFood,31,nao
+2026-10-29,21,X-Burger,1,28,11,Balcão,0,nao
+2026-10-29,11,Pizza Média,2,48,18,iFood,42,nao
+2026-10-29,12,Combo Família,3,79,32,iFood,42,nao
+2026-10-30,11,X-Bacon,2,34,14,iFood,38,nao
+2026-10-30,19,Combo Família,2,79,32,iFood,41,nao
+2026-10-30,11,Salada Caesar,2,26,10,WhatsApp,44,sim
+2026-10-30,11,Açaí 500ml,1,19,7,iFood,34,nao
+2026-10-30,21,Batata Frita,1,16,5,iFood,41,nao
+2026-10-30,21,Pizza Média,1,48,18,Balcão,0,nao
+2026-10-30,12,Pizza Média,1,48,18,iFood,44,sim
+2026-10-30,15,Salada Caesar,2,26,10,iFood,34,nao
+2026-10-30,18,Batata Frita,2,16,5,iFood,33,nao
+2026-10-30,18,Refrigerante,1,8,3,Balcão,0,nao
+2026-10-30,11,Salada Caesar,2,26,10,WhatsApp,43,nao
+2026-10-30,12,Refrigerante,3,8,3,iFood,42,sim
+2026-10-30,18,Refrigerante,2,8,3,iFood,30,nao
+2026-10-30,19,Batata Frita,1,16,5,iFood,41,nao
+2026-10-30,12,Pizza Média,2,48,18,WhatsApp,37,nao
+2026-10-30,11,Salada Caesar,1,26,10,iFood,41,nao
+2026-10-30,15,Refrigerante,2,8,3,iFood,37,nao
+2026-10-30,20,Açaí 500ml,1,19,7,WhatsApp,45,nao
+2026-10-30,11,Combo Família,1,79,32,WhatsApp,35,nao
+2026-10-30,21,Combo Família,2,79,32,WhatsApp,43,nao
+2026-10-30,11,X-Bacon,1,34,14,iFood,43,nao
+2026-10-30,18,Refrigerante,1,8,3,iFood,30,nao
+2026-10-30,11,Batata Frita,2,16,5,Balcão,0,nao
+2026-10-30,21,Pizza Média,1,48,18,iFood,38,nao
+2026-10-30,18,Combo Família,1,79,32,iFood,37,nao
+2026-10-30,19,X-Burger,1,28,11,WhatsApp,41,sim
+2026-10-30,21,Refrigerante,2,8,3,iFood,34,nao
+2026-10-30,13,X-Burger,1,28,11,iFood,35,nao
+2026-10-30,13,Açaí 500ml,2,19,7,iFood,41,nao
+2026-10-30,11,Combo Família,1,79,32,iFood,35,nao
+2026-10-30,13,X-Bacon,1,34,14,WhatsApp,44,nao
+2026-10-31,11,Salada Caesar,1,26,10,Balcão,0,nao
+2026-10-31,20,X-Burger,1,28,11,WhatsApp,37,nao
+2026-10-31,20,Salada Caesar,1,26,10,iFood,41,nao
+2026-10-31,19,Batata Frita,2,16,5,iFood,35,nao
+2026-10-31,12,X-Bacon,2,34,14,WhatsApp,40,nao
+2026-10-31,13,X-Burger,1,28,11,iFood,34,nao
+2026-10-31,12,Açaí 500ml,2,19,7,iFood,37,nao
+2026-10-31,13,X-Burger,2,28,11,iFood,41,nao
+2026-10-31,18,Refrigerante,1,8,3,iFood,27,nao
+2026-10-31,19,X-Burger,2,28,11,iFood,33,nao
+2026-10-31,13,Refrigerante,2,8,3,iFood,34,nao
+2026-10-31,12,Açaí 500ml,2,19,7,iFood,44,nao
+2026-10-31,12,X-Bacon,2,34,14,Balcão,0,nao
+2026-10-31,21,Açaí 500ml,1,19,7,iFood,34,nao
+2026-10-31,12,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-10-31,11,Pizza Média,3,48,18,WhatsApp,45,nao
+2026-10-31,12,X-Bacon,2,34,14,iFood,37,nao
+2026-10-31,20,Açaí 500ml,2,19,7,Balcão,0,nao
+2026-10-31,20,X-Bacon,2,34,14,iFood,41,nao
+2026-10-31,15,X-Burger,2,28,11,WhatsApp,36,nao
+2026-10-31,12,Salada Caesar,2,26,10,iFood,34,nao
+2026-10-31,11,Refrigerante,1,8,3,iFood,38,nao
+2026-10-31,12,X-Burger,1,28,11,WhatsApp,38,nao
+2026-10-31,12,X-Bacon,2,34,14,WhatsApp,39,nao
+2026-10-31,18,Batata Frita,2,16,5,iFood,33,nao
+2026-10-31,18,X-Burger,3,28,11,WhatsApp,30,nao
+2026-10-31,12,X-Burger,2,28,11,WhatsApp,35,nao
+2026-10-31,20,Salada Caesar,2,26,10,iFood,38,nao
+2026-10-31,19,Pizza Média,2,48,18,Balcão,0,nao
+2026-10-31,21,Combo Família,3,79,32,iFood,39,nao
+2026-10-31,20,X-Burger,2,28,11,Balcão,0,nao
+2026-10-31,12,Pizza Média,3,48,18,WhatsApp,39,nao
+2026-10-31,19,Salada Caesar,1,26,10,Balcão,0,nao
+2026-10-31,13,X-Bacon,2,34,14,WhatsApp,41,nao
+2026-10-31,18,X-Bacon,3,34,14,WhatsApp,30,nao
+2026-10-31,16,X-Bacon,2,34,14,WhatsApp,27,nao
+2026-10-31,19,Pizza Média,2,48,18,WhatsApp,36,nao
+2026-10-31,18,X-Burger,1,28,11,WhatsApp,35,nao
+2026-10-31,13,X-Bacon,2,34,14,WhatsApp,42,nao
+2026-10-31,13,Pizza Média,1,48,18,WhatsApp,42,nao
+2026-10-31,19,Salada Caesar,3,26,10,WhatsApp,38,nao
+2026-10-31,12,X-Bacon,2,34,14,iFood,40,nao
+2026-10-31,17,Refrigerante,2,8,3,WhatsApp,33,nao
+2026-10-31,18,X-Burger,1,28,11,WhatsApp,28,nao
+2026-10-31,18,X-Bacon,1,34,14,WhatsApp,30,nao
+2026-10-31,11,Salada Caesar,2,26,10,iFood,40,nao
+2026-10-31,21,X-Burger,2,28,11,iFood,35,nao
+2026-10-31,12,X-Burger,1,28,11,iFood,36,nao
+2026-10-31,13,Salada Caesar,1,26,10,iFood,43,nao
+2026-11-01,16,Salada Caesar,3,26,10,WhatsApp,34,nao
+2026-11-01,20,Salada Caesar,2,26,10,iFood,43,nao
+2026-11-01,21,Combo Família,3,79,32,iFood,44,nao
+2026-11-01,18,Refrigerante,1,8,3,WhatsApp,36,nao
+2026-11-01,21,Açaí 500ml,1,19,7,WhatsApp,44,nao
+2026-11-01,18,Refrigerante,1,8,3,iFood,33,nao
+2026-11-01,12,Batata Frita,2,16,5,WhatsApp,33,nao
+2026-11-01,21,Açaí 500ml,1,19,7,WhatsApp,34,nao
+2026-11-01,18,Batata Frita,2,16,5,WhatsApp,31,nao
+2026-11-01,19,Combo Família,2,79,32,WhatsApp,45,nao
+2026-11-01,20,Salada Caesar,1,26,10,iFood,40,nao
+2026-11-01,12,Salada Caesar,2,26,10,iFood,37,nao
+2026-11-01,12,Combo Família,2,79,32,WhatsApp,35,nao
+2026-11-01,11,Pizza Média,3,48,18,WhatsApp,43,nao
+2026-11-01,19,X-Burger,1,28,11,iFood,42,nao
+2026-11-01,12,Açaí 500ml,1,19,7,iFood,44,nao
+2026-11-01,20,X-Bacon,1,34,14,WhatsApp,37,nao
+2026-11-01,11,Batata Frita,2,16,5,WhatsApp,43,nao
+2026-11-01,19,Combo Família,2,79,32,iFood,35,nao
+2026-11-01,20,Pizza Média,1,48,18,iFood,34,nao
+2026-11-01,20,Combo Família,2,79,32,iFood,44,nao
+2026-11-01,21,X-Burger,1,28,11,iFood,42,nao
+2026-11-01,19,Açaí 500ml,2,19,7,iFood,43,nao
+2026-11-01,12,X-Burger,3,28,11,iFood,44,nao
+2026-11-01,19,Batata Frita,1,16,5,iFood,34,nao
+2026-11-01,13,Batata Frita,3,16,5,iFood,38,nao
+2026-11-01,13,Pizza Média,2,48,18,iFood,43,nao
+2026-11-01,12,Açaí 500ml,1,19,7,iFood,43,nao
+2026-11-01,19,Batata Frita,2,16,5,Balcão,0,nao
+2026-11-01,18,Açaí 500ml,1,19,7,iFood,29,nao
+2026-11-01,18,Refrigerante,2,8,3,Balcão,0,nao
+2026-11-01,11,X-Burger,2,28,11,Balcão,0,nao
+2026-11-01,12,Combo Família,1,79,32,iFood,34,nao
+2026-11-01,20,Refrigerante,1,8,3,iFood,41,nao
+2026-11-01,17,Pizza Média,2,48,18,iFood,33,nao
+2026-11-01,12,Refrigerante,2,8,3,iFood,37,nao
+2026-11-01,12,X-Burger,1,28,11,iFood,43,nao
+2026-11-01,11,Açaí 500ml,2,19,7,iFood,33,nao
+2026-11-01,12,Combo Família,2,79,32,iFood,43,nao
+2026-11-01,19,Combo Família,2,79,32,iFood,36,nao
+2026-11-01,12,Refrigerante,1,8,3,WhatsApp,41,nao
+2026-11-01,21,Pizza Média,2,48,18,iFood,38,nao
+2026-11-01,18,Açaí 500ml,1,19,7,iFood,34,nao
+2026-11-01,12,Pizza Média,1,48,18,iFood,38,nao
+2026-11-01,19,Batata Frita,1,16,5,WhatsApp,37,nao
+2026-11-01,12,Refrigerante,2,8,3,WhatsApp,43,nao
+2026-11-02,18,X-Bacon,2,34,14,iFood,33,nao
+2026-11-02,13,X-Burger,1,28,11,iFood,35,nao
+2026-11-02,11,X-Burger,2,28,11,iFood,38,nao
+2026-11-02,20,Pizza Média,1,48,18,Balcão,0,nao
+2026-11-02,12,X-Bacon,2,34,14,Balcão,0,nao
+2026-11-02,18,X-Bacon,3,34,14,iFood,26,nao
+2026-11-02,19,Combo Família,1,79,32,WhatsApp,42,nao
+2026-11-02,13,X-Bacon,1,34,14,Balcão,0,nao
+2026-11-02,21,X-Bacon,1,34,14,WhatsApp,38,nao
+2026-11-02,13,Salada Caesar,2,26,10,Balcão,0,nao
+2026-11-02,21,Refrigerante,2,8,3,WhatsApp,42,nao
+2026-11-02,18,X-Burger,2,28,11,iFood,34,nao
+2026-11-02,11,Combo Família,2,79,32,Balcão,0,sim
+2026-11-02,11,Pizza Média,2,48,18,WhatsApp,34,nao
+2026-11-02,13,Salada Caesar,2,26,10,iFood,41,nao
+2026-11-02,13,X-Burger,1,28,11,Balcão,0,nao
+2026-11-02,18,Açaí 500ml,2,19,7,Balcão,0,nao
+2026-11-02,18,Açaí 500ml,2,19,7,iFood,32,nao
+2026-11-02,21,X-Bacon,2,34,14,Balcão,0,nao
+2026-11-02,13,Combo Família,2,79,32,iFood,39,nao
+2026-11-02,13,Batata Frita,1,16,5,WhatsApp,41,sim
+2026-11-02,20,Combo Família,2,79,32,iFood,36,nao
+2026-11-02,12,Açaí 500ml,1,19,7,iFood,37,nao
+2026-11-02,11,X-Bacon,1,34,14,WhatsApp,34,nao
+2026-11-02,18,X-Burger,1,28,11,Balcão,0,nao
+2026-11-02,17,Refrigerante,2,8,3,iFood,35,nao
+2026-11-02,20,Refrigerante,1,8,3,iFood,39,nao
+2026-11-02,12,Salada Caesar,1,26,10,WhatsApp,36,sim
+2026-11-02,15,Açaí 500ml,1,19,7,WhatsApp,28,nao
+2026-11-02,20,Batata Frita,2,16,5,Balcão,0,nao
+2026-11-03,13,Açaí 500ml,1,19,7,iFood,40,nao
+2026-11-03,11,X-Bacon,1,34,14,iFood,36,nao
+2026-11-03,16,Salada Caesar,1,26,10,WhatsApp,31,nao
+2026-11-03,21,X-Burger,1,28,11,WhatsApp,35,nao
+2026-11-03,18,Refrigerante,1,8,3,iFood,27,nao
+2026-11-03,15,X-Bacon,2,34,14,iFood,34,nao
+2026-11-03,12,X-Bacon,3,34,14,Balcão,0,nao
+2026-11-03,19,Açaí 500ml,2,19,7,Balcão,0,nao
+2026-11-03,20,Açaí 500ml,2,19,7,iFood,37,nao
+2026-11-03,19,X-Bacon,2,34,14,iFood,33,nao
+2026-11-03,12,Salada Caesar,1,26,10,iFood,44,nao
+2026-11-03,18,Batata Frita,1,16,5,iFood,31,nao
+2026-11-03,13,Batata Frita,1,16,5,iFood,36,nao
+2026-11-03,17,X-Bacon,1,34,14,WhatsApp,35,nao
+2026-11-03,19,Açaí 500ml,1,19,7,WhatsApp,36,nao
+2026-11-03,11,X-Burger,2,28,11,iFood,34,nao
+2026-11-03,18,X-Bacon,3,34,14,iFood,30,nao
+2026-11-03,19,Salada Caesar,2,26,10,Balcão,0,nao
+2026-11-03,12,Pizza Média,1,48,18,iFood,43,nao
+2026-11-03,21,Refrigerante,2,8,3,iFood,33,nao
+2026-11-03,16,X-Bacon,1,34,14,WhatsApp,30,nao
+2026-11-03,19,X-Burger,1,28,11,WhatsApp,44,nao
+2026-11-03,12,X-Burger,2,28,11,iFood,36,nao
+2026-11-03,11,Batata Frita,1,16,5,WhatsApp,40,nao
+2026-11-03,11,Salada Caesar,1,26,10,WhatsApp,45,nao
+2026-11-03,21,X-Bacon,2,34,14,iFood,45,nao
+2026-11-03,18,X-Bacon,2,34,14,WhatsApp,28,nao
+2026-11-04,13,X-Burger,1,28,11,iFood,37,nao
+2026-11-04,16,X-Burger,1,28,11,iFood,30,nao
+2026-11-04,12,X-Burger,2,28,11,iFood,33,nao
+2026-11-04,13,Combo Família,2,79,32,WhatsApp,38,nao
+2026-11-04,19,X-Burger,2,28,11,WhatsApp,39,nao
+2026-11-04,13,Batata Frita,2,16,5,iFood,34,nao
+2026-11-04,20,X-Bacon,3,34,14,iFood,40,nao
+2026-11-04,12,X-Burger,1,28,11,Balcão,0,nao
+2026-11-04,16,Açaí 500ml,1,19,7,iFood,36,nao
+2026-11-04,11,Salada Caesar,2,26,10,Balcão,0,nao
+2026-11-04,20,Açaí 500ml,1,19,7,iFood,35,nao
+2026-11-04,12,Batata Frita,1,16,5,iFood,41,nao
+2026-11-04,12,X-Burger,1,28,11,iFood,45,nao
+2026-11-04,13,Batata Frita,2,16,5,iFood,42,nao
+2026-11-04,18,Salada Caesar,1,26,10,WhatsApp,29,nao
+2026-11-04,13,Combo Família,3,79,32,Balcão,0,nao
+2026-11-04,11,Pizza Média,2,48,18,iFood,33,nao
+2026-11-04,12,Salada Caesar,1,26,10,WhatsApp,35,nao
+2026-11-04,12,X-Bacon,1,34,14,WhatsApp,43,nao
+2026-11-04,20,X-Burger,2,28,11,WhatsApp,43,nao
+2026-11-04,19,Combo Família,2,79,32,WhatsApp,34,nao
+2026-11-04,13,Pizza Média,2,48,18,iFood,43,nao
+2026-11-04,21,X-Bacon,1,34,14,iFood,33,nao
+2026-11-04,18,Batata Frita,2,16,5,WhatsApp,31,nao
+2026-11-04,11,X-Burger,1,28,11,iFood,34,nao
+2026-11-04,11,Refrigerante,2,8,3,iFood,35,nao
+2026-11-04,18,Refrigerante,2,8,3,WhatsApp,29,nao
+2026-11-04,13,Açaí 500ml,1,19,7,iFood,38,nao
+2026-11-04,19,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-11-04,11,X-Burger,2,28,11,Balcão,0,nao
+2026-11-05,11,Salada Caesar,2,26,10,Balcão,0,nao
+2026-11-05,13,Batata Frita,2,16,5,iFood,33,nao
+2026-11-05,12,Batata Frita,2,16,5,iFood,42,nao
+2026-11-05,12,X-Burger,2,28,11,WhatsApp,35,nao
+2026-11-05,20,Batata Frita,2,16,5,iFood,36,nao
+2026-11-05,21,X-Bacon,1,34,14,WhatsApp,38,nao
+2026-11-05,13,X-Burger,3,28,11,iFood,39,nao
+2026-11-05,11,X-Bacon,1,34,14,iFood,38,nao
+2026-11-05,12,Salada Caesar,2,26,10,iFood,39,nao
+2026-11-05,17,Combo Família,2,79,32,iFood,29,nao
+2026-11-05,19,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-11-05,11,Salada Caesar,2,26,10,Balcão,0,nao
+2026-11-05,11,Refrigerante,2,8,3,iFood,43,nao
+2026-11-05,21,X-Burger,3,28,11,Balcão,0,nao
+2026-11-05,12,X-Burger,2,28,11,Balcão,0,nao
+2026-11-05,21,Batata Frita,2,16,5,iFood,38,nao
+2026-11-05,21,X-Burger,1,28,11,iFood,42,nao
+2026-11-05,18,X-Bacon,2,34,14,WhatsApp,34,nao
+2026-11-05,19,Batata Frita,1,16,5,Balcão,0,nao
+2026-11-05,13,X-Bacon,3,34,14,iFood,38,nao
+2026-11-05,21,Pizza Média,1,48,18,Balcão,0,nao
+2026-11-05,19,Refrigerante,2,8,3,iFood,38,nao
+2026-11-05,20,Refrigerante,1,8,3,Balcão,0,nao
+2026-11-05,21,Batata Frita,2,16,5,iFood,42,nao
+2026-11-05,19,X-Bacon,1,34,14,iFood,43,nao
+2026-11-05,20,Pizza Média,1,48,18,iFood,38,nao
+2026-11-05,17,Batata Frita,2,16,5,iFood,31,nao
+2026-11-05,19,Açaí 500ml,2,19,7,iFood,44,nao
+2026-11-05,11,X-Bacon,2,34,14,iFood,39,nao
+2026-11-05,16,Refrigerante,2,8,3,iFood,37,nao
+2026-11-05,13,Açaí 500ml,2,19,7,iFood,38,nao
+2026-11-05,18,X-Burger,2,28,11,iFood,33,nao
+2026-11-05,18,X-Bacon,2,34,14,Balcão,0,nao
+2026-11-05,11,X-Bacon,2,34,14,WhatsApp,40,nao
+2026-11-06,11,X-Burger,2,28,11,WhatsApp,43,nao
+2026-11-06,13,Batata Frita,2,16,5,iFood,35,nao
+2026-11-06,21,Batata Frita,1,16,5,iFood,40,nao
+2026-11-06,12,X-Burger,1,28,11,iFood,38,nao
+2026-11-06,13,Combo Família,2,79,32,iFood,39,nao
+2026-11-06,13,Salada Caesar,3,26,10,WhatsApp,39,nao
+2026-11-06,20,Combo Família,1,79,32,iFood,45,nao
+2026-11-06,20,X-Burger,3,28,11,iFood,40,nao
+2026-11-06,11,X-Burger,3,28,11,WhatsApp,43,nao
+2026-11-06,12,Açaí 500ml,1,19,7,WhatsApp,33,nao
+2026-11-06,20,X-Burger,2,28,11,iFood,41,nao
+2026-11-06,18,X-Bacon,2,34,14,iFood,34,nao
+2026-11-06,20,Combo Família,2,79,32,Balcão,0,nao
+2026-11-06,13,X-Bacon,1,34,14,Balcão,0,nao
+2026-11-06,20,Pizza Média,1,48,18,WhatsApp,37,nao
+2026-11-06,13,Pizza Média,2,48,18,WhatsApp,40,nao
+2026-11-06,20,X-Burger,1,28,11,iFood,38,nao
+2026-11-06,15,X-Burger,3,28,11,iFood,35,nao
+2026-11-06,19,X-Burger,2,28,11,iFood,44,nao
+2026-11-06,21,Salada Caesar,1,26,10,Balcão,0,nao
+2026-11-06,20,X-Burger,2,28,11,iFood,44,nao
+2026-11-06,12,Combo Família,2,79,32,iFood,41,nao
+2026-11-06,13,X-Burger,1,28,11,iFood,36,nao
+2026-11-06,11,X-Burger,1,28,11,iFood,40,nao
+2026-11-06,11,Açaí 500ml,1,19,7,iFood,36,nao
+2026-11-06,19,Batata Frita,1,16,5,iFood,41,nao
+2026-11-06,20,Pizza Média,1,48,18,WhatsApp,41,nao
+2026-11-06,20,Salada Caesar,1,26,10,iFood,42,nao
+2026-11-06,16,Açaí 500ml,1,19,7,iFood,35,nao
+2026-11-06,13,Salada Caesar,2,26,10,WhatsApp,38,nao
+2026-11-06,16,Batata Frita,1,16,5,iFood,30,nao
+2026-11-06,18,Pizza Média,2,48,18,iFood,36,nao
+2026-11-06,19,Açaí 500ml,1,19,7,iFood,40,nao
+2026-11-06,13,Refrigerante,2,8,3,WhatsApp,38,nao
+2026-11-07,21,Batata Frita,2,16,5,WhatsApp,40,nao
+2026-11-07,21,X-Burger,1,28,11,iFood,43,nao
+2026-11-07,18,Pizza Média,2,48,18,Balcão,0,nao
+2026-11-07,11,Combo Família,1,79,32,iFood,38,nao
+2026-11-07,20,X-Bacon,1,34,14,Balcão,0,nao
+2026-11-07,18,Salada Caesar,1,26,10,iFood,31,nao
+2026-11-07,12,Açaí 500ml,2,19,7,iFood,43,nao
+2026-11-07,20,X-Bacon,2,34,14,iFood,38,nao
+2026-11-07,18,Salada Caesar,3,26,10,iFood,36,nao
+2026-11-07,18,Refrigerante,3,8,3,iFood,32,nao
+2026-11-07,12,Batata Frita,1,16,5,iFood,42,nao
+2026-11-07,12,Batata Frita,2,16,5,WhatsApp,37,nao
+2026-11-07,15,Batata Frita,3,16,5,iFood,33,nao
+2026-11-07,18,Açaí 500ml,3,19,7,iFood,28,nao
+2026-11-07,19,Pizza Média,2,48,18,iFood,34,nao
+2026-11-07,20,X-Bacon,2,34,14,WhatsApp,34,nao
+2026-11-07,19,Batata Frita,1,16,5,WhatsApp,45,nao
+2026-11-07,13,Refrigerante,2,8,3,WhatsApp,40,nao
+2026-11-07,11,Refrigerante,1,8,3,Balcão,0,nao
+2026-11-07,12,X-Bacon,1,34,14,Balcão,0,nao
+2026-11-07,18,Combo Família,2,79,32,iFood,28,nao
+2026-11-07,13,Refrigerante,1,8,3,iFood,43,nao
+2026-11-07,13,Batata Frita,1,16,5,iFood,45,nao
+2026-11-07,18,X-Bacon,1,34,14,WhatsApp,34,nao
+2026-11-07,12,Refrigerante,1,8,3,iFood,42,nao
+2026-11-07,18,X-Burger,1,28,11,Balcão,0,nao
+2026-11-07,17,Salada Caesar,1,26,10,iFood,34,nao
+2026-11-07,16,X-Burger,2,28,11,iFood,34,nao
+2026-11-07,20,X-Bacon,2,34,14,iFood,41,nao
+2026-11-07,15,X-Burger,1,28,11,iFood,31,nao
+2026-11-07,11,Salada Caesar,3,26,10,iFood,41,nao
+2026-11-07,18,X-Burger,2,28,11,Balcão,0,nao
+2026-11-07,17,X-Bacon,2,34,14,WhatsApp,32,nao
+2026-11-07,19,Refrigerante,1,8,3,Balcão,0,nao
+2026-11-07,13,X-Bacon,1,34,14,iFood,34,nao
+2026-11-07,21,X-Burger,2,28,11,WhatsApp,39,nao
+2026-11-07,12,Refrigerante,1,8,3,Balcão,0,nao
+2026-11-07,19,X-Burger,3,28,11,Balcão,0,nao
+2026-11-07,20,Combo Família,3,79,32,Balcão,0,nao
+2026-11-07,21,Refrigerante,3,8,3,WhatsApp,39,sim
+2026-11-07,20,X-Bacon,1,34,14,Balcão,0,nao
+2026-11-07,15,Salada Caesar,2,26,10,iFood,27,nao
+2026-11-08,11,X-Burger,2,28,11,iFood,41,nao
+2026-11-08,11,Refrigerante,2,8,3,WhatsApp,35,nao
+2026-11-08,18,X-Bacon,1,34,14,iFood,32,nao
+2026-11-08,18,X-Burger,2,28,11,WhatsApp,27,nao
+2026-11-08,21,Combo Família,1,79,32,iFood,44,nao
+2026-11-08,21,Açaí 500ml,1,19,7,iFood,35,nao
+2026-11-08,13,X-Burger,1,28,11,iFood,40,nao
+2026-11-08,18,Batata Frita,3,16,5,Balcão,0,nao
+2026-11-08,21,X-Burger,2,28,11,WhatsApp,43,nao
+2026-11-08,18,Batata Frita,1,16,5,iFood,34,nao
+2026-11-08,18,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-11-08,18,Açaí 500ml,2,19,7,iFood,37,nao
+2026-11-08,18,Combo Família,2,79,32,WhatsApp,31,nao
+2026-11-08,11,Salada Caesar,1,26,10,iFood,41,nao
+2026-11-08,11,Combo Família,2,79,32,iFood,34,nao
+2026-11-08,21,X-Bacon,2,34,14,WhatsApp,35,nao
+2026-11-08,18,X-Burger,1,28,11,WhatsApp,34,nao
+2026-11-08,13,X-Burger,1,28,11,WhatsApp,42,nao
+2026-11-08,18,Refrigerante,1,8,3,Balcão,0,nao
+2026-11-08,13,Refrigerante,2,8,3,iFood,37,nao
+2026-11-08,18,Batata Frita,3,16,5,iFood,37,nao
+2026-11-08,18,Açaí 500ml,1,19,7,WhatsApp,38,nao
+2026-11-08,18,Batata Frita,1,16,5,Balcão,0,nao
+2026-11-08,21,Açaí 500ml,2,19,7,WhatsApp,35,nao
+2026-11-08,13,Salada Caesar,1,26,10,iFood,40,nao
+2026-11-08,18,Combo Família,1,79,32,iFood,37,nao
+2026-11-08,21,Batata Frita,2,16,5,iFood,42,nao
+2026-11-08,21,X-Bacon,2,34,14,iFood,40,sim
+2026-11-08,19,X-Burger,2,28,11,WhatsApp,39,nao
+2026-11-08,18,Refrigerante,2,8,3,iFood,36,nao
+2026-11-08,12,Pizza Média,1,48,18,WhatsApp,34,nao
+2026-11-08,12,Salada Caesar,2,26,10,iFood,40,nao
+2026-11-08,13,X-Burger,2,28,11,WhatsApp,44,nao
+2026-11-08,12,X-Bacon,1,34,14,WhatsApp,35,nao
+2026-11-08,21,X-Burger,2,28,11,iFood,39,nao
+2026-11-08,20,X-Bacon,1,34,14,iFood,36,nao
+2026-11-08,12,Combo Família,2,79,32,iFood,34,nao
+2026-11-08,20,Salada Caesar,1,26,10,WhatsApp,43,nao
+2026-11-08,18,X-Bacon,1,34,14,Balcão,0,nao
+2026-11-08,13,Pizza Média,1,48,18,iFood,39,nao
+2026-11-08,18,Batata Frita,1,16,5,iFood,34,nao
+2026-11-08,21,Batata Frita,1,16,5,WhatsApp,37,nao
+2026-11-08,21,X-Bacon,1,34,14,iFood,35,nao
+2026-11-08,12,Refrigerante,1,8,3,Balcão,0,nao
+2026-11-08,21,X-Bacon,2,34,14,WhatsApp,45,nao
+2026-11-08,18,X-Bacon,1,34,14,iFood,28,nao
+2026-11-09,11,Batata Frita,1,16,5,iFood,39,nao
+2026-11-09,19,Batata Frita,2,16,5,iFood,37,sim
+2026-11-09,20,X-Bacon,2,34,14,iFood,44,nao
+2026-11-09,12,Batata Frita,2,16,5,Balcão,0,nao
+2026-11-09,20,Batata Frita,1,16,5,iFood,43,nao
+2026-11-09,12,X-Burger,1,28,11,WhatsApp,44,nao
+2026-11-09,20,Combo Família,2,79,32,iFood,35,nao
+2026-11-09,16,Pizza Média,1,48,18,iFood,30,nao
+2026-11-09,13,X-Burger,1,28,11,Balcão,0,nao
+2026-11-09,15,Salada Caesar,2,26,10,Balcão,0,nao
+2026-11-09,12,X-Burger,3,28,11,iFood,39,nao
+2026-11-09,13,X-Burger,1,28,11,WhatsApp,38,nao
+2026-11-09,21,X-Burger,1,28,11,iFood,38,nao
+2026-11-09,15,Batata Frita,1,16,5,WhatsApp,26,sim
+2026-11-09,16,Pizza Média,2,48,18,WhatsApp,31,nao
+2026-11-09,11,Salada Caesar,2,26,10,iFood,34,nao
+2026-11-09,16,Açaí 500ml,2,19,7,iFood,27,nao
+2026-11-09,18,Pizza Média,1,48,18,iFood,28,nao
+2026-11-09,13,X-Bacon,2,34,14,iFood,39,nao
+2026-11-09,18,Combo Família,2,79,32,WhatsApp,36,nao
+2026-11-09,13,X-Burger,1,28,11,WhatsApp,40,nao
+2026-11-09,19,Salada Caesar,1,26,10,iFood,34,nao
+2026-11-09,13,Pizza Média,2,48,18,WhatsApp,39,nao
+2026-11-09,19,Pizza Média,1,48,18,iFood,44,nao
+2026-11-09,13,Combo Família,1,79,32,Balcão,0,nao
+2026-11-09,21,Pizza Média,1,48,18,iFood,35,nao
+2026-11-09,11,Refrigerante,2,8,3,WhatsApp,34,nao
+2026-11-09,11,Combo Família,1,79,32,WhatsApp,34,nao
+2026-11-09,13,Refrigerante,2,8,3,WhatsApp,44,nao
+2026-11-09,12,Pizza Média,1,48,18,iFood,44,nao
+2026-11-09,12,X-Bacon,2,34,14,WhatsApp,40,nao
+2026-11-10,11,Pizza Média,1,48,18,iFood,39,nao
+2026-11-10,12,X-Bacon,3,34,14,WhatsApp,40,nao
+2026-11-10,12,X-Burger,3,28,11,iFood,36,nao
+2026-11-10,11,Refrigerante,1,8,3,iFood,41,nao
+2026-11-10,11,Combo Família,1,79,32,iFood,37,nao
+2026-11-10,21,X-Burger,2,28,11,iFood,54,nao
+2026-11-10,13,X-Burger,1,28,11,iFood,38,nao
+2026-11-10,12,X-Burger,1,28,11,WhatsApp,44,nao
+2026-11-10,20,X-Burger,2,28,11,Balcão,0,nao
+2026-11-10,13,X-Bacon,1,34,14,WhatsApp,42,nao
+2026-11-10,19,X-Bacon,1,34,14,iFood,53,nao
+2026-11-10,18,X-Burger,3,28,11,iFood,27,nao
+2026-11-10,13,Açaí 500ml,2,19,7,iFood,34,nao
+2026-11-10,18,Batata Frita,2,16,5,WhatsApp,29,nao
+2026-11-10,15,Salada Caesar,1,26,10,iFood,31,nao
+2026-11-10,20,X-Bacon,2,34,14,Balcão,0,nao
+2026-11-10,13,X-Burger,2,28,11,iFood,41,nao
+2026-11-10,21,Batata Frita,2,16,5,iFood,50,nao
+2026-11-10,13,X-Burger,1,28,11,iFood,34,nao
+2026-11-10,21,X-Burger,1,28,11,iFood,48,nao
+2026-11-10,20,Salada Caesar,1,26,10,WhatsApp,34,nao
+2026-11-10,11,Pizza Média,1,48,18,iFood,40,nao
+2026-11-10,21,Batata Frita,1,16,5,iFood,51,nao
+2026-11-10,20,X-Bacon,1,34,14,WhatsApp,40,nao
+2026-11-10,17,Combo Família,1,79,32,Balcão,0,nao
+2026-11-10,18,X-Burger,1,28,11,WhatsApp,36,nao
+2026-11-11,18,Açaí 500ml,1,19,7,WhatsApp,30,nao
+2026-11-11,19,Batata Frita,1,16,5,WhatsApp,42,nao
+2026-11-11,16,Salada Caesar,3,26,10,iFood,35,nao
+2026-11-11,21,Combo Família,1,79,32,iFood,52,nao
+2026-11-11,11,X-Bacon,2,34,14,WhatsApp,38,nao
+2026-11-11,11,Pizza Média,2,48,18,iFood,41,nao
+2026-11-11,11,X-Bacon,2,34,14,iFood,43,nao
+2026-11-11,18,X-Burger,2,28,11,iFood,29,nao
+2026-11-11,13,Batata Frita,2,16,5,Balcão,0,sim
+2026-11-11,12,Pizza Média,1,48,18,Balcão,0,nao
+2026-11-11,21,X-Burger,3,28,11,WhatsApp,34,nao
+2026-11-11,17,X-Bacon,1,34,14,Balcão,0,nao
+2026-11-11,13,Combo Família,1,79,32,iFood,38,nao
+2026-11-11,18,Batata Frita,2,16,5,Balcão,0,nao
+2026-11-11,21,Batata Frita,2,16,5,iFood,52,nao
+2026-11-11,20,X-Burger,2,28,11,Balcão,0,nao
+2026-11-11,21,Refrigerante,1,8,3,WhatsApp,36,nao
+2026-11-11,21,Pizza Média,3,48,18,iFood,54,nao
+2026-11-11,13,X-Burger,1,28,11,iFood,43,nao
+2026-11-11,16,Refrigerante,1,8,3,Balcão,0,nao
+2026-11-11,17,Batata Frita,2,16,5,iFood,36,nao
+2026-11-11,17,X-Bacon,2,34,14,iFood,33,nao
+2026-11-11,18,Açaí 500ml,1,19,7,WhatsApp,35,nao
+2026-11-11,18,Combo Família,2,79,32,iFood,38,nao
+2026-11-11,21,Batata Frita,2,16,5,iFood,53,nao
+2026-11-11,18,X-Burger,2,28,11,iFood,37,nao
+2026-11-12,16,Pizza Média,2,48,18,WhatsApp,38,nao
+2026-11-12,12,X-Bacon,3,34,14,iFood,34,nao
+2026-11-12,13,Salada Caesar,1,26,10,iFood,38,nao
+2026-11-12,21,X-Bacon,2,34,14,WhatsApp,39,nao
+2026-11-12,15,Batata Frita,1,16,5,WhatsApp,31,nao
+2026-11-12,12,X-Bacon,2,34,14,Balcão,0,nao
+2026-11-12,11,Açaí 500ml,2,19,7,iFood,41,nao
+2026-11-12,18,X-Bacon,3,34,14,iFood,29,nao
+2026-11-12,16,X-Burger,1,28,11,WhatsApp,29,nao
+2026-11-12,12,Combo Família,1,79,32,Balcão,0,nao
+2026-11-12,17,X-Bacon,1,34,14,iFood,32,nao
+2026-11-12,11,Pizza Média,3,48,18,Balcão,0,nao
+2026-11-12,13,Refrigerante,2,8,3,WhatsApp,36,nao
+2026-11-12,13,X-Burger,2,28,11,WhatsApp,43,nao
+2026-11-12,11,X-Burger,1,28,11,iFood,36,nao
+2026-11-12,15,Açaí 500ml,2,19,7,iFood,32,nao
+2026-11-12,18,X-Burger,2,28,11,Balcão,0,nao
+2026-11-12,13,Combo Família,2,79,32,WhatsApp,45,nao
+2026-11-12,11,Açaí 500ml,2,19,7,WhatsApp,44,sim
+2026-11-12,20,Pizza Média,1,48,18,Balcão,0,nao
+2026-11-12,19,Combo Família,3,79,32,Balcão,0,sim
+2026-11-12,15,Refrigerante,1,8,3,WhatsApp,37,nao
+2026-11-12,12,X-Burger,1,28,11,iFood,34,nao
+2026-11-12,11,Pizza Média,2,48,18,Balcão,0,nao
+2026-11-12,13,Refrigerante,2,8,3,iFood,41,nao
+2026-11-12,15,X-Burger,2,28,11,WhatsApp,34,nao
+2026-11-12,16,Batata Frita,2,16,5,WhatsApp,35,nao
+2026-11-12,18,Batata Frita,1,16,5,iFood,29,nao
+2026-11-13,19,Pizza Média,1,48,18,iFood,50,nao
+2026-11-13,16,X-Burger,1,28,11,iFood,27,sim
+2026-11-13,20,X-Bacon,2,34,14,WhatsApp,36,nao
+2026-11-13,12,X-Burger,2,28,11,iFood,38,nao
+2026-11-13,12,Açaí 500ml,3,19,7,iFood,40,nao
+2026-11-13,18,Combo Família,2,79,32,WhatsApp,36,nao
+2026-11-13,11,Batata Frita,3,16,5,iFood,41,nao
+2026-11-13,20,X-Bacon,2,34,14,Balcão,0,nao
+2026-11-13,11,X-Burger,3,28,11,iFood,34,sim
+2026-11-13,20,Batata Frita,1,16,5,WhatsApp,41,nao
+2026-11-13,12,X-Burger,2,28,11,iFood,35,nao
+2026-11-13,21,X-Burger,1,28,11,WhatsApp,40,nao
+2026-11-13,12,Salada Caesar,2,26,10,WhatsApp,43,nao
+2026-11-13,19,Combo Família,2,79,32,iFood,51,nao
+2026-11-13,20,X-Bacon,1,34,14,iFood,45,nao
+2026-11-13,21,Açaí 500ml,1,19,7,iFood,44,nao
+2026-11-13,11,Salada Caesar,2,26,10,iFood,37,nao
+2026-11-13,19,Salada Caesar,2,26,10,WhatsApp,43,nao
+2026-11-13,21,X-Bacon,1,34,14,WhatsApp,42,nao
+2026-11-13,12,Batata Frita,1,16,5,iFood,45,nao
+2026-11-13,11,X-Bacon,2,34,14,Balcão,0,nao
+2026-11-13,18,Açaí 500ml,1,19,7,iFood,27,nao
+2026-11-13,12,Pizza Média,2,48,18,iFood,36,nao
+2026-11-13,20,Batata Frita,2,16,5,Balcão,0,nao
+2026-11-13,11,Refrigerante,1,8,3,WhatsApp,44,nao
+2026-11-13,12,Salada Caesar,1,26,10,Balcão,0,nao
+2026-11-13,20,Açaí 500ml,2,19,7,iFood,48,nao
+2026-11-13,21,Refrigerante,1,8,3,iFood,48,nao
+2026-11-13,13,Açaí 500ml,1,19,7,iFood,35,nao
+2026-11-13,13,Batata Frita,2,16,5,iFood,39,nao
+2026-11-14,11,Refrigerante,1,8,3,iFood,44,nao
+2026-11-14,18,Açaí 500ml,1,19,7,WhatsApp,34,nao
+2026-11-14,20,X-Bacon,2,34,14,iFood,49,nao
+2026-11-14,13,X-Burger,2,28,11,Balcão,0,nao
+2026-11-14,19,Combo Família,2,79,32,iFood,53,nao
+2026-11-14,19,X-Bacon,2,34,14,iFood,44,nao
+2026-11-14,21,X-Burger,2,28,11,iFood,51,nao
+2026-11-14,11,Combo Família,2,79,32,WhatsApp,36,nao
+2026-11-14,18,Açaí 500ml,2,19,7,iFood,30,sim
+2026-11-14,11,Batata Frita,3,16,5,WhatsApp,45,nao
+2026-11-14,16,Combo Família,2,79,32,iFood,30,nao
+2026-11-14,20,X-Bacon,2,34,14,iFood,48,nao
+2026-11-14,11,Pizza Média,2,48,18,WhatsApp,34,nao
+2026-11-14,19,Combo Família,1,79,32,iFood,50,nao
+2026-11-14,19,Batata Frita,2,16,5,Balcão,0,nao
+2026-11-14,11,X-Burger,1,28,11,WhatsApp,41,nao
+2026-11-14,12,Salada Caesar,2,26,10,WhatsApp,37,nao
+2026-11-14,11,X-Burger,3,28,11,WhatsApp,35,nao
+2026-11-14,12,X-Burger,2,28,11,WhatsApp,40,nao
+2026-11-14,21,X-Burger,1,28,11,iFood,48,nao
+2026-11-14,21,Batata Frita,2,16,5,WhatsApp,42,nao
+2026-11-14,19,Pizza Média,2,48,18,iFood,48,nao
+2026-11-14,11,Combo Família,2,79,32,iFood,44,nao
+2026-11-14,17,Refrigerante,1,8,3,WhatsApp,34,nao
+2026-11-14,20,X-Burger,2,28,11,WhatsApp,40,nao
+2026-11-14,21,X-Burger,2,28,11,iFood,53,nao
+2026-11-14,21,Batata Frita,1,16,5,WhatsApp,34,nao
+2026-11-14,21,X-Bacon,1,34,14,iFood,45,nao
+2026-11-14,11,X-Bacon,2,34,14,iFood,38,nao
+2026-11-14,11,Batata Frita,1,16,5,iFood,37,nao
+2026-11-14,13,X-Burger,2,28,11,iFood,42,nao
+2026-11-14,18,Batata Frita,1,16,5,iFood,31,nao
+2026-11-14,13,Salada Caesar,2,26,10,iFood,41,nao
+2026-11-14,19,Açaí 500ml,1,19,7,iFood,46,nao
+2026-11-14,20,Salada Caesar,2,26,10,iFood,49,sim
+2026-11-14,21,Salada Caesar,2,26,10,iFood,50,nao
+2026-11-14,12,Combo Família,2,79,32,WhatsApp,39,nao
+2026-11-14,19,X-Burger,1,28,11,iFood,51,nao
+2026-11-14,15,X-Bacon,1,34,14,WhatsApp,29,nao
+2026-11-14,13,Batata Frita,2,16,5,iFood,40,sim
+2026-11-14,19,Açaí 500ml,2,19,7,Balcão,0,nao
+2026-11-14,20,Açaí 500ml,2,19,7,WhatsApp,34,nao
+2026-11-14,19,Pizza Média,1,48,18,Balcão,0,nao
+2026-11-15,19,Batata Frita,1,16,5,Balcão,0,nao
+2026-11-15,13,X-Burger,2,28,11,iFood,40,nao
+2026-11-15,12,X-Bacon,1,34,14,iFood,44,nao
+2026-11-15,13,Pizza Média,2,48,18,iFood,40,nao
+2026-11-15,20,X-Burger,1,28,11,WhatsApp,35,nao
+2026-11-15,20,X-Burger,2,28,11,WhatsApp,41,nao
+2026-11-15,20,Salada Caesar,1,26,10,iFood,52,nao
+2026-11-15,21,Açaí 500ml,2,19,7,iFood,50,nao
+2026-11-15,19,Batata Frita,1,16,5,iFood,44,nao
+2026-11-15,20,Batata Frita,1,16,5,Balcão,0,nao
+2026-11-15,11,X-Burger,2,28,11,WhatsApp,39,nao
+2026-11-15,19,X-Bacon,1,34,14,iFood,48,sim
+2026-11-15,17,Refrigerante,1,8,3,WhatsApp,34,nao
+2026-11-15,11,Pizza Média,3,48,18,iFood,34,nao
+2026-11-15,20,Açaí 500ml,1,19,7,iFood,51,nao
+2026-11-15,13,Combo Família,1,79,32,iFood,41,sim
+2026-11-15,16,Salada Caesar,1,26,10,iFood,35,nao
+2026-11-15,11,X-Burger,2,28,11,WhatsApp,42,nao
+2026-11-15,19,Batata Frita,1,16,5,WhatsApp,36,nao
+2026-11-15,12,Refrigerante,2,8,3,Balcão,0,nao
+2026-11-15,19,X-Bacon,2,34,14,iFood,44,nao
+2026-11-15,12,Pizza Média,1,48,18,Balcão,0,nao
+2026-11-15,13,X-Bacon,3,34,14,WhatsApp,41,nao
+2026-11-15,20,Açaí 500ml,1,19,7,Balcão,0,nao
+2026-11-15,18,X-Burger,2,28,11,iFood,29,nao
+2026-11-15,13,X-Bacon,1,34,14,Balcão,0,nao
+2026-11-15,13,X-Burger,1,28,11,iFood,33,nao
+2026-11-15,12,X-Burger,1,28,11,WhatsApp,33,nao
+2026-11-15,19,X-Burger,3,28,11,WhatsApp,33,nao
+2026-11-15,13,Refrigerante,1,8,3,iFood,34,nao
+2026-11-15,13,Salada Caesar,2,26,10,WhatsApp,45,nao
+2026-11-15,18,Refrigerante,1,8,3,Balcão,0,nao
+2026-11-15,12,X-Bacon,2,34,14,Balcão,0,nao
+2026-11-15,12,X-Bacon,2,34,14,WhatsApp,34,nao
+2026-11-15,17,X-Burger,1,28,11,iFood,32,nao
+2026-11-15,20,Combo Família,1,79,32,iFood,50,nao
+2026-11-15,19,Batata Frita,1,16,5,iFood,55,nao
+2026-11-15,11,Batata Frita,2,16,5,Balcão,0,nao
+2026-11-15,16,X-Burger,1,28,11,WhatsApp,27,nao
+2026-11-15,20,Batata Frita,1,16,5,iFood,49,nao
+2026-11-15,11,Açaí 500ml,2,19,7,iFood,37,nao
+2026-11-15,21,X-Burger,1,28,11,Balcão,0,nao
+2026-11-15,11,X-Bacon,1,34,14,iFood,43,nao
+2026-11-15,17,Refrigerante,1,8,3,WhatsApp,37,sim
+2026-11-15,19,Combo Família,2,79,32,iFood,52,nao
+2026-11-15,19,Refrigerante,2,8,3,iFood,50,nao
+2026-11-15,19,X-Bacon,2,34,14,WhatsApp,35,nao
+2026-11-16,19,X-Burger,2,28,11,WhatsApp,44,sim
+2026-11-16,19,Batata Frita,1,16,5,WhatsApp,42,nao
+2026-11-16,13,X-Burger,1,28,11,Balcão,0,nao
+2026-11-16,20,Salada Caesar,1,26,10,Balcão,0,nao
+2026-11-16,18,Batata Frita,1,16,5,WhatsApp,37,nao
+2026-11-16,20,X-Burger,1,28,11,iFood,45,nao
+2026-11-16,12,X-Burger,2,28,11,iFood,39,nao
+2026-11-16,11,Combo Família,3,79,32,iFood,39,sim
+2026-11-16,18,Açaí 500ml,3,19,7,iFood,32,nao
+2026-11-16,20,X-Burger,1,28,11,iFood,46,sim
+2026-11-16,21,Batata Frita,2,16,5,Balcão,0,nao
+2026-11-16,13,Açaí 500ml,2,19,7,iFood,42,nao
+2026-11-16,18,Refrigerante,3,8,3,Balcão,0,nao
+2026-11-16,12,Salada Caesar,1,26,10,iFood,36,nao
+2026-11-16,21,Refrigerante,3,8,3,WhatsApp,36,nao
+2026-11-16,15,Refrigerante,1,8,3,iFood,30,nao
+2026-11-16,18,Refrigerante,2,8,3,WhatsApp,31,nao
+2026-11-16,11,Salada Caesar,2,26,10,iFood,37,nao
+2026-11-16,12,Salada Caesar,2,26,10,iFood,35,nao
+2026-11-16,11,X-Bacon,1,34,14,iFood,39,nao
+2026-11-16,18,X-Burger,1,28,11,iFood,26,nao
+2026-11-16,17,Refrigerante,1,8,3,WhatsApp,37,nao
+2026-11-16,11,Refrigerante,1,8,3,WhatsApp,44,nao
+2026-11-16,12,X-Bacon,2,34,14,Balcão,0,nao
+2026-11-16,13,Pizza Média,1,48,18,WhatsApp,35,nao
+2026-11-16,11,X-Burger,3,28,11,WhatsApp,35,nao
+2026-11-16,11,X-Burger,1,28,11,iFood,38,nao
+2026-11-16,21,X-Bacon,1,34,14,WhatsApp,34,nao
