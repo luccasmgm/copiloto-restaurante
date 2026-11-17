@@ -19,7 +19,7 @@ Donos de restaurante que vendem por iFood, WhatsApp e balcão costumam montar pl
 **Estimativa de impacto:** cerca de 2,4 horas por semana economizadas, considerando 15 minutos diários de montagem manual de relatório e 30 minutos semanais de análise. É uma estimativa baseada nessas premissas, não uma medição.
 
 ## Prévia da interface
-
+**[Ver a prévia online](https://luccasmgm.github.io/copiloto-restaurante/)**
 A pasta [`docs/`](docs/index.html) contém uma página independente (HTML, CSS e JavaScript puros, sem dependências) com o dashboard, os alertas, o gerador de relatório e um assistente de perguntas. Ela usa dados simulados no próprio navegador e não se conecta à API. Para visualizá-la, abra o arquivo `docs/index.html` no navegador ou publique a pasta com o GitHub Pages.
 
 ## Arquitetura
