@@ -20,7 +20,7 @@ Donos de restaurante que vendem por iFood, WhatsApp e balcão costumam montar pl
 
 ## Prévia da interface
 
-A pasta [`demo-visual/`](demo-visual/index.html) contém uma página independente (HTML, CSS e JavaScript puros, sem dependências) com o dashboard, os alertas, o gerador de relatório e um assistente de perguntas. Ela usa dados simulados no próprio navegador e não se conecta à API. Para visualizá-la, abra o arquivo `demo-visual/index.html` no navegador ou publique a pasta com o GitHub Pages.
+A pasta [`docs/`](docs/index.html) contém uma página independente (HTML, CSS e JavaScript puros, sem dependências) com o dashboard, os alertas, o gerador de relatório e um assistente de perguntas. Ela usa dados simulados no próprio navegador e não se conecta à API. Para visualizá-la, abra o arquivo `docs/index.html` no navegador ou publique a pasta com o GitHub Pages.
 
 ## Arquitetura
 
@@ -122,7 +122,7 @@ copiloto-restaurante/
 │   ├── tests/          # testes automatizados
 │   ├── requirements.txt
 │   └── .env.example
-├── demo-visual/        # prévia da interface (HTML único)
+├── docs/        # prévia da interface (https://luccasmgm.github.io/copiloto-restaurante/)
 ├── exemplo/            # CSV de exemplo
 └── README.md
 ```
